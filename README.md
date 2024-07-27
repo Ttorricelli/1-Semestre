@@ -14,12 +14,12 @@
 
 ## <img src="https://github.com/user-attachments/assets/3f67f0e8-d0e8-4862-918e-8701a86409f0" width="30"> Matérias <img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50"><img src="https://github.com/user-attachments/assets/b1fa33cf-43ec-4637-8c2a-cd41f16bf0ff" width="50">
 
-- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">   ALGORITMOS E PROGRAMAÇÃO I
-- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">  CÁLCULO I
-- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">   COMPUTADOR E SOCIEDADE
-- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">  EMPREENDEDORISMO
-- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">   INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
-- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">  LÓGICA PARA CIÊNCIA DA COMPUTAÇÃO
+- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20"> [AP I](https://github.com/Ttorricelli/AP-I)
+- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">  [CÁLCULO I](https://github.com/Ttorricelli/CAL-I)
+- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">   [COMPUTADOR E SOCIEDADE](https://github.com/Ttorricelli/COMPUTADOR-E-SOCIEDADE)
+- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">  [EMPREENDEDORISMO](https://github.com/Ttorricelli/EMPREENDEDORISMO)
+- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">   [INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO](https://github.com/Ttorricelli/ICC)
+- <img src="https://github.com/user-attachments/assets/3bf45ea6-2dbe-4e48-8b6d-a61cdc21c14e" width="20">  [LÓGICA PARA CIÊNCIA DA COMPUTAÇÃO](https://github.com/Ttorricelli/LOGICA)
 
 
 
